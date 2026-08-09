@@ -1,0 +1,12 @@
+[
+  {
+    "occurred_at_ms": 1800000000000,
+    "kind": "arrived",
+    "device_path": "\\\\?\\USB#VID_1234&PID_ABCD#SYNTHETIC",
+    "interface_class": "{00000000-0000-0000-0000-000000000000}",
+    "vendor_id": "1234",
+    "product_id": "ABCD",
+    "risk": "alert",
+    "reason": "synthetic local rule match"
+  }
+]
