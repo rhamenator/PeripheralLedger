@@ -11,6 +11,7 @@ upgrade-guid = "5F29805E-4FF1-41B1-B396-52646167ED33"
 path-guid = "1ABC777E-221A-4692-9D2E-75C18FED06A5"
 license = false
 eula = false
+product-icon = "wix\\Product.ico"
 
 [dependencies]
 anyhow = "1"
