@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/logo.png" alt="PeripheralLedger logo" width="220">
+</p>
+
 # Peripheral Ledger
 
 Peripheral Ledger is a Windows service that records native device-interface
